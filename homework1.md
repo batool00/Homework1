@@ -1,9 +1,9 @@
 Homework \#1 – Pet Names Dataset
 ================
-batool abbas alsadah
+batool alsadah
 2021-02-14
 
-\*\*Student ID:insert ID here 2201003400
+\*\*Student ID:2201003400
 
 **Deadline:** 23:59 on Saturday, 13 February 2021
 
