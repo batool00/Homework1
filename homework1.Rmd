@@ -1,7 +1,7 @@
 ---
 title: "Homework #1 -- Pet Names Dataset"
 author: "batool alsadah"
-date: "`r Sys.Date()`"
+date: "14/2/2021"
 output: github_document
 ---
 
@@ -50,28 +50,38 @@ variables (7)
 (4 points)
 
 ```{r}
+seattlepets %>%
+count(animal_name, sort = TRUE)
+
 
 ```
-Write your narrative here
+anser 3
 
-
-
-`4.
+ 1 NA            483
+ 2 Lucy          439
+ 3 Charlie       387
 
 (10 points)
 
 ```{r species-name-top5, eval=TRUE}
+seattlepets %>%
+group_by(species) %>%
+count(animal_name, sort = TRUE) %>%
+slice_max(n, n = 5)%>%arrange(species, n)
+
 
 ```
 
 `5.  What names are more common for cats than dogs? The ones above the line or the ones below the line?
 
 Answer here
+oliver andlily and lily
 
 (4 points)
 
 `6. Is the relationship between the two variables (proportion of cats with a given name and proportion of dogs with a given name) positive or negative? What does this mean in context of the data?
 
 Answer here
+positive , every time a dog was caaed by a name the more by a cat was called by the same name
 
 (4 points)
