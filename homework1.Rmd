@@ -35,7 +35,6 @@ Write your narrative here
 answer 1
 (52519)
 
-
 `2.Again, according to the data dictionary, how many variables do we have for each pet?
 
 (4 points)
@@ -44,7 +43,8 @@ answer 1
 
 ```
 Write your narrative below
-
+answer 2
+variables (7) 
 `3. Copy the code provided in the homework documentation and paste it here. 
 
 (4 points)
