@@ -1,6 +1,6 @@
 ---
 title: "Homework #1 -- Pet Names Dataset"
-author: "batool alsadah"
+author: "batool abaas alsadah"
 date: "14/2/2021"
 output: github_document
 ---
