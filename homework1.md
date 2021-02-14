@@ -19,13 +19,15 @@ library(ggrepel)
 
 \#\#Exercises
 
-\`1.
+\`1.According to the data dictionary, how many pets are included in this
+dataset?
 
 (4 points)
 
-Write your narrative here
+Write your narrative here answer 1 (52519)
 
-\`2.
+\`2.Again, according to the data dictionary, how many variables do we
+have for each pet?
 
 (4 points)
 
