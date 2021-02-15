@@ -1,6 +1,6 @@
 Homework \#1 – Pet Names Dataset
 ================
-batool abaas alsadah
+batool alsadah
 14/2/2021
 
 \*\*Student ID:2201003400
