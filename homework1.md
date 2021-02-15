@@ -97,6 +97,6 @@ with a given name and proportion of dogs with a given name) positive or
 negative? What does this mean in context of the data?
 
 Answer here positive , every time a dog was caaed by a name the more by
-a cat was called by the same name
+a cat was called by the same name.
 
 (4 points)
