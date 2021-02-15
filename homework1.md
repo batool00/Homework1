@@ -60,7 +60,7 @@ anser3
 
 1 NA 483 2 Lucy 439 3 Charlie 387
 
-(10 points)
+(10 points) anser 4
 
 ``` r
 seattlepets %>%
