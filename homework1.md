@@ -56,7 +56,7 @@ count(animal_name, sort = TRUE)
     ## 10 Lily          232
     ## # … with 13,920 more rows
 
-anser 3
+anser3
 
 1 NA 483 2 Lucy 439 3 Charlie 387
 

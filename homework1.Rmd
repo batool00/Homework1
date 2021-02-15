@@ -55,7 +55,7 @@ count(animal_name, sort = TRUE)
 
 
 ```
-anser 3
+anser3
 
  1 NA            483
  2 Lucy          439
