@@ -31,7 +31,7 @@ have for each pet?
 
 (4 points)
 
-Write your narrative below answer 2 variables (7) \`3. Copy the code
+Write your narrative below answer 2 variables {7} \`3. Copy the code
 provided in the homework documentation and paste it here.
 
 (4 points)

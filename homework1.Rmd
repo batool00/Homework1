@@ -44,7 +44,7 @@ answer 1
 ```
 Write your narrative below
 answer 2
-variables (7) 
+variables {7}
 `3. Copy the code provided in the homework documentation and paste it here. 
 
 (4 points)
